@@ -9,7 +9,7 @@ public class Q1sum {
 
         double sum = 0;
 
-        System.out.println("Enter five numbers");
+        //System.out.println("Enter five numbers");
         for (int j=0;j< exampleArray.length;j++) {
             sum = sum + exampleArray[j];
         }

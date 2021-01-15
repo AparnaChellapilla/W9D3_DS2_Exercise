@@ -31,7 +31,7 @@ public class Main {
                 break;
 
             default:
-                System.out.println("Invalid input, please run from the above");
+                System.out.println("Invalid input, please select from either 1,2 or 3)");
                 select.close();
 
         }
